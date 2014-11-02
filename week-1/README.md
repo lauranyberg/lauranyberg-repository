@@ -45,6 +45,7 @@ When you have questions about the instructions or how to do something, are confu
 
 ## This Week's Challenges
 
+#### 0. [Git challenge orientation](0-repo-orientation)
 #### 1. [The Command Line](1-command-line)
 #### 2. [Computer Setup](2-computer-setup)
 #### 3. [Think about time](3-think-about-time)
