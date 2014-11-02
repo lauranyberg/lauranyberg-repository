@@ -16,7 +16,7 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
 - [Socrates](http://socrates.devbootcamp.com/)<br> You will receive an individual invite to socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. 
 
-- [Slack](https://ensprial-dev-academy.slack.com/messages/pukeko-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and Pukeko community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
+- [Slack](https://enspiral-dev-academy.slack.com/messages/pukeko-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and Pukeko community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
 - [Google+](https://plus.google.com/communities/109221790027165688597)
 By now you should have received an invite to your Pukeko Google+ community. If not, request it [here](https://plus.google.com/communities/109221790027165688597). We’ll use G+ to share non-urgent information and to organise Google Hangouts. 
