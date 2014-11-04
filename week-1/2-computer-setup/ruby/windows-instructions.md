@@ -30,11 +30,17 @@ Here is the instructions for getting your windows environment set up. We will be
 
 ## Release 0: Download Sublime Text
 
-Follow these instructions [sublime install and configure](https://github.com/pukeko-2015/phase-0-handbook/blob/master/text-editor-setup.md)
+Install sublime and follow their instructions from [their site](http://www.sublimetext.com/)
 
 If you have dont this correctly, you should be able to open files from the command prompt using `subl "filename"` now.
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
+
+It is useful to set Sublime as your default editor and to create a sym link. The instructions on how to do so vary depending on your operating system. Here are some links if you'd like to give it a go:
+
+- Creating a symbolic link [stackoverflow](http://stackoverflow.com/questions/9440639/sublime-text-from-command-line-win7) or [team treehouse](https://teamtreehouse.com/forum/creating-a-symbolic-link-in-windows)
+- Make sublime your default editor [stackoverflow](http://stackoverflow.com/questions/9450895/sublime-as-default-editor)  
+- Bookmark or print these [sublime shortcuts](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_win.html)  
 
 ## Release 1: Install Chocolatey
 Now lets install our package manager to get the libraries we need.
