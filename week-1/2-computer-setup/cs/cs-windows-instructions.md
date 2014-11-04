@@ -26,7 +26,7 @@ Here is the instructions for getting your windows environment set up. We will be
 
 ## Release 0: Download Sublime Text
 
-Follow these instructions [sublime install and configure](https://github.com/pukeko-2015/phase-0-handbook/blob/master/text-editor-setup.md)
+Download and follow instructions from [their site.](http://www.sublimetext.com/)
 
 If you have done this correctly, you should be able to open files from the command prompt using `subl "filename"` now.
 
