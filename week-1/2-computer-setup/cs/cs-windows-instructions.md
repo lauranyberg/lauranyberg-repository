@@ -30,7 +30,10 @@ Download and follow instructions from [their site.](http://www.sublimetext.com/)
 
 If you have done this correctly, you should be able to open files from the command prompt using `subl "filename"` now.
 
-You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
+You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)  
+  
+Bookmark [keyboard shortcuts for windows](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_win.html)  
+
 
 ## Release 1: Install Chocolatey
 Now lets install our package manager to get the libraries we need.
