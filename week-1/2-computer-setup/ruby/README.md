@@ -13,4 +13,4 @@ NOTE: These instructions assume you have a "clean" environment and don't have an
 
 - [Ruby on Linux](ruby-linux-instructions.md)
 - [Ruby on Mac](ruby-mac-instructions.md)
-- [Ruby on Windows](ruby-windows-instructions.md)
+- [Ruby on Windows](windows-instructions.md)
