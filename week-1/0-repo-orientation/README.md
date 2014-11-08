@@ -36,7 +36,7 @@ In each repository (repo) there are a number of directories (folders) and files.
 
 ##### Find the readme
 
-For the most part you can ignore the 'list of files in directory'. The readme will usually direct you to where you need to go. Note however, that this is not always the case, and the directory structure is a great way to get around once your familiar with it. 
+During your initial journey into github, you can for the most part ignore the 'list of files in directory'. The readme will usually direct you to where you need to go. However, as you grow more confident with Github, the directory structure is a great way to navigate the files, once your familiar with it. 
 
 </br>  
 </br>  
