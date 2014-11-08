@@ -8,7 +8,11 @@
 - Use Chrome DevTools to manipulate elements in the DOM
 
 ## Summary
-In this challenge, you'll be diving into Chrome DevTools. Inside the DevTools inspector window is an inner world of data that is communicated between the browser and server. These tools are invaluable for you as a developer and getting comfortable with them will help optimize your HTML and CSS editing, JavaScript debugging, and overall site performance. For the purposes of this challenge, we'll focus primarily on real-time HTML and CSS positioning in this challenge.
+In this challenge, you'll be diving into Chrome DevTools. 
+
+If you don't have [Chrome](http://www.google.com/chrome) installed on your computer yet, you can quickly and easily download it from their website.
+
+Inside the DevTools inspector window is an inner world of data that is communicated between the browser and server. These tools are invaluable for you as a developer and getting comfortable with them will help optimize your HTML and CSS editing, JavaScript debugging, and overall site performance. For the purposes of this challenge, we'll focus primarily on real-time HTML and CSS positioning in this challenge.
 
 ## Release 0: Research the DOM
 Read/Watch both of the following resources to get some background on the DOM (Document Object Model) before diving into the challenge.
