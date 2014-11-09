@@ -6,9 +6,10 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. E
 
 Begin by clicking on the link below. Don't worry too much right now about any other links on this page. There will be time later to explore them. 
 ### [Week 1: Git, GitHub, and the Command Line](week-1/README.md)
+### [Week 2: HTML and CSS](week-2/README.md)
 
 The curriculum for weeks 2 and 3 will be released each Monday.
-<!-- ### [Week 2: HTML and CSS](week-2/README.md)
+<!-- 
 ### [Week 3: Introduction to Ruby](week-3/README.md) -->
 
 ## Unit Requirements
