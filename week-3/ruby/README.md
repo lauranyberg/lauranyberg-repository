@@ -6,9 +6,10 @@ We will release it with changes at least by the Friday before the week begins. -
 
 It's time to fetch changes from Pukeko's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/pukeko-2015/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
-You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the challenges we assign.
+On the student drive you have access to a number of different books. We recommend you purchase your own copy, but in the meantime you can use ours. This week you'll be reading Chris Pine's [*Learn to Program, 2nd edition*](https://drive.google.com/open?id=0B5aB0OHeInzgOWE3dF9tMzByVVk&authuser=0) and then completing the challenges we assign.
 
-We are also requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code. You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
+You will also want to read [The Well-Grounded Rubyist](https://drive.google.com/a/enspiral.com/file/d/0B5aB0OHeInzgXzFFd1ZhT2lUTjA/view?usp=sharing) by David A. 
+You will definitely also need to invest in [Practical Object-Oriented Design in Ruby](https://drive.google.com/open?id=0B5aB0OHeInzgcHFvZUVtNlZzQ3c&authuser=0) by Sandi Metz, (often referred to as POODR). This will be used in week 6 and through your bootcamp. 
 
 ## Challenges:
 You'll see an "exercises" directory. The exercises will be referenced by the challenges below. Please go through the challenges in order.
