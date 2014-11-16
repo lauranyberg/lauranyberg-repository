@@ -1,4 +1,4 @@
-# Week 3: Introduction to Ruby
+# Week 3: Introduction to C#
 
 <!-- Week 3's material is not ready yet!
 
