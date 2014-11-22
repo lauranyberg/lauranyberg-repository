@@ -74,7 +74,7 @@ Now you will create a temporary index for your personal website. We will be usin
 ```html
 <html>
   <body>
-      Hello DBC!
+      Hello EDA!
   </body>
 </html>
 

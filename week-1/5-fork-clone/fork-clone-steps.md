@@ -8,7 +8,7 @@ Click the "Fork" button at the top right of this page.
 
 ![Repo to Fork](../imgs/repo-to-fork.jpg)
 
-This will make a copy of the Unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and your challenge code. After you click fork, you should be taken from the Devbootcamp.com/phase-0-unit-1 repo to [USERNAME]/phase-0-unit-1.
+This will make a copy of the Unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and your challenge code. After you click fork, you should be taken from the pukeko-2015/phase-0-unit-1 repo to [USERNAME]/phase-0-unit-1.
 
 ![Forked Repo](../imgs/forked-repo.jpg)
 
@@ -33,7 +33,7 @@ Now you'll want to bring the repository to our computer. There is a series of co
 
 First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local GitHub repository, so **always** make sure you are in the correct directory, like your Desktop or a phase-0 folder.
 
-The first step is to get the URL of your FORKED repo (Don't clone Devbootcamp's version of the repo!). This is found here:
+The first step is to get the URL of your FORKED repo (Don't clone Pukeko's version of the repo!). This is found here:
 
 ![repository-url](../imgs/repository-url.png)
 

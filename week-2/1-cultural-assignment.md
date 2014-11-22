@@ -8,7 +8,7 @@
 - Describe what you would tell your friend if they shared a fear with you
 
 ## Release 0: Consider the question:
-**What scares you the most about being at DBC?**
+**What scares you the most about being at EDA?**
 
 ## Release 1: Email your cohort
 Write an email to your cohort using your local cohort mailing list (available on your cohort page in Socrates under the name) that answers this question. Use the subject "Cultural Assignment" if you are the first person. Everyone should reply to the original thread.

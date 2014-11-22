@@ -3,7 +3,7 @@
 # U1.W1: Your Command Line (aka Terminal, Shell, Prompt)
 
 ## Learning Competencies
-By the end of this lesson, you should be able to ___ in/using the command line.
+By the end of this lesson, you should be able to do the following in/using the command line.
 - Identify your location
 - Navigate between directories
 - Move, rename, and copy items
@@ -26,9 +26,13 @@ Keep this in mind: the more you can do without a mouse, the more efficient you w
 ## Releases
 
 ## Release 0: Read
+*For Ruby students (Linux/Mac)*:
 Get a bit of information on the command line in the ["What is the Command Line"](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything) reading.
 
-Read through this and make a note of anything interesting.
+*For C# students (Windows)*:
+Get a bit of information on Powershell in the ["A Beginner’s Introduction to Windows PowerShell"](https://www.udemy.com/blog/powershell-tutorial/)
+
+Read through either and make a note of anything interesting.
 
 ## Release 1: Crash Course
 Now go through the [Command Line Crash Course](http://cli.learncodethehardway.org/book/) to get some practice.

@@ -63,7 +63,7 @@ Get used to searching for how to do these things. You'll find a lot of great res
 
 
 ## Release 3: Compare
-I know you've been dying to see the actual source code Berkshire Hathaway uses. Thankfully, you can see it pretty easily. Most browsers display source code when CTRL+U is pressed.
+I know you've been dying to see the actual source code Berkshire Hathaway uses. Thankfully, you can see it pretty easily. Most browsers display source code when CTRL+U (or CMD+U) is pressed.
 
 Now compare your HTML and CSS to the source. Make some notes of the differences and which site you think uses better practices. You'll need to answer some questions about this in your reflection section.
 

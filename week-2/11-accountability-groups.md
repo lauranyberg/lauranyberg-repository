@@ -19,4 +19,4 @@ Using the means your group decided to use for communication, explain the concept
 The other members of your group will have similar questions or can explain the parts that were confusing. Interact with one another and try to help each other out as much as possible.
 
 ## Release 2: Lack of Engagement
-If there is a member of your group who does not engage, please email <phase0@devbootcamp.com> to let us know. We will follow up with the person or provide you with aditional information.
+If there is a member of your group who does not engage, please email us to let us know. We will follow up with the person or provide you with aditional information.

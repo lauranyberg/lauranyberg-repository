@@ -30,9 +30,7 @@ Now is the time to add your files to your blog/index.html file. You'll need to l
 
 ## Release 4: Promote
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
-
-Tweet your blog post using the hashtag **#DBCCSS**.
+Now it's time to show off your work and share your knowledge with your cohortmates using the G+ Community and Slack!
 
 ## Release 5: Read
 

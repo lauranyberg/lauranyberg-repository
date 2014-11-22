@@ -18,9 +18,9 @@ Right below the branch drop-down will be a grey bar that has pull request and co
 
 ![Pull Request 1](../imgs/pull-request-1.png)
 
-Click on "pull request." This will show you a summary of the files that were changed. At the top, it will show you which branch you are making the pull request on. Make sure to change it from Devbootcamp:master to base:master.
+Click on "pull request." This will show you a summary of the files that were changed. At the top, it will show you which branch you are making the pull request on. Make sure to change it from pukeko-2015:master to base:master.
 
-![Pull Request DBC](../imgs/pull-request-dbc.png)
+![Pull Request EDA](../imgs/pull-request-EDA.png)
 
 Once you have the correct branches, you may want to put a comment in on what you changed, or just press "Create pull Request."
 
@@ -40,8 +40,8 @@ It will ask you to confirm the merge, so make sure you do that. Then you'll want
 
 ![Pull Request 4](../imgs/pull-request-4.png)
 
-# Making improvements to DBC's curriculum!
+# Making improvements to EDA's curriculum!
 
-So this process is really empowering to you as well. If you notice a typo in Devbootcamp's curriculum, or any other problems, you can actually make improvements yourself using this process and create a pull request to have them merged. Just make sure you are careful about which changes you make a pull request for. Any changes that add personal content will be rejected.
+So this process is really empowering to you as well. If you notice a typo in EDA's curriculum, or any other problems, you can actually make improvements yourself using this process and create a pull request to have them merged. Just make sure you are careful about which changes you make a pull request for. Any changes that add personal content will be rejected.
 
-The only thing you will want to make sure you do is keep Devbootcamp:master as the branch you want to compare to make the pull request. Be sure to add good comments about the changes you made. It will make it easier for us to approve them.
+The only thing you will want to make sure you do is keep pukeko-2015:master as the branch you want to compare to make the pull request. Be sure to add good comments about the changes you made. It will make it easier for us to approve them.

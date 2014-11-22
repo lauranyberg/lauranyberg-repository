@@ -18,7 +18,9 @@ Git works by following all of the changes in the files inside a git tracked fold
 ## Release 0: Watch: What is a change?
 [![Tracking Changes](http://img.youtube.com/vi/cBTs3WWMXUs/0.jpg)](http://www.youtube.com/watch?v=cBTs3WWMXUs)
 
-Note: Emmanuel made a new branch here called `git-playground`. You don't have to do that. You can do everything on the `master` branch for this challenge. The `master` branch is the one you are on automatically. You can check which branch you are on by typing `git status`.
+[Tracking Changes](https://www.youtube.com/watch?v=cBTs3WWMXUs)  
+
+Note: Emmanuel made a new branch here called `git-playground`. You don't have to do that. You can do everything on the `master` branch for this challenge. The `master` branch is the one you are on automatically. You can check which branch you are on by typing `git status`. 
 
 ## Release 1: Good Commit Messages
 
@@ -27,6 +29,7 @@ Because commits are 'save points', it is important to start getting in the habit
 You can type your commit messages in your terminal with `git commit -m "message goes here between the quotes"` or you can use the verbose commit message to give yourself some room `git commit -v` will open your default editor according to git (learn how to change it [here](https://help.github.com/articles/associating-text-editors-with-git) follow instructions for sublime). After you write your message, save and close the file. Your commit will be recorded.
 
 You can check the commit history of a repository in the command line by typing `git log` and scroll using the up and down arrows. Exit using `q`. How would you score our git commit messages? Would you know where to look in each message to find what files were changed?
+
 
 ## Release 2: Tracking Changes
 
@@ -54,10 +57,12 @@ Now you know about how git tracks changes, so it's time to make some changes! Ma
 - Check your git status
 - Write something in this README.md
 - Check your git status (notice a pattern?)
-- Add the changes you made in the my_reflection.md and README.md to the stage
-- Discard the change made to the README.md
+- Add the change you made in the my_reflection.md to the stage
+- Unstage the change for my_reflection.md
 - Add and commit the changes for my_reflection.md
-- Check the git log to see your commits
+- Check the git log to see your commit and message
+- Reset the last commit
+- Add and commit the changes for my_reflection.md again
 
 ## Release 4: Pushing Changes
 
@@ -65,7 +70,7 @@ Now it's time to make your changes live on GitHub. There are two ways to do this
 
 Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Pull changes from the remote to your local copy by typing:
 
-`git pull origin master` #pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
+`git pull origin master` #pull fetches changes and merges them. You can also fetch and merge separately if you prefer.`
 
 Since you've been working on the master branch this entire time, it's easy to push changes to the master branch on GitHub. Simply type:
 

@@ -3,12 +3,12 @@
 # U1.W1: Cultural Blog: Chefs in the Kitchen
 
 ## Learning Competencies
-- Consider DBC's culture and approach to learning
-- Predict how you will react to DBC's approach
+- Consider EDA's culture and approach to learning
+- Predict how you will react to EDA's approach
 
 ## Summary
 
-Dev Bootcamp does not simply try to teach people how to program. We also focus on the mind and body. In Phase 0 you will be introduced to various cultural topics you'll be expected to be familiar with or open to learning more about at Dev Bootcamp. Similarly to the technical blogs, you should try to time-box (limit yourself) to spending an hour on it.
+Dev Academy does not simply try to teach people how to program. We also focus on the mind and body. In Phase 0 you will be introduced to various cultural topics you'll be expected to be familiar with or open to learning more about at Dev Academy. Similarly to the technical blogs, you should try to time-box (limit yourself) to spending an hour on it.
 
 Note: This week's might be a little long if you watch the whole video, so watch what you need. You may want to skip the QA section at the end if you're short on time.
 
@@ -25,8 +25,8 @@ Watch [Shereef's Fireside Chat](http://vimeo.com/85001014). This chat is over an
 
 ## Release 2: Write
 
-Based on the video, what's your take on the DBC experience? What is your impression of DBC? How do you see yourself engaging with this type of culture?
-Have your expectations of DBC changed? If so, how? Are you excited to participate in this kind of learning environment? Does it make you nervous?
+Based on the video, what's your take on the EDA experience? What is your impression of EDA? How do you see yourself engaging with this type of culture?
+Have your expectations of EDA changed? If so, how? Are you excited to participate in this kind of learning environment? Does it make you nervous?
 
 Talk about what came up for you and anything you want in addition to the questions above.
 
@@ -39,4 +39,4 @@ Don't forget to add, commit, and push your changes to make them live on your git
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using **#DBCFireside** and read some of your cohort-mates blogs as well!
+Tweet your blog post using **#EDAFireside** and read some of your cohort-mates blogs as well!
