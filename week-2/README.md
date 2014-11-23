@@ -1,6 +1,7 @@
 # Week 2: HTML and CSS
 
-It's time to fetch changes the phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from Kakapo's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+
 
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will probably require more of your time than week 1.
 
