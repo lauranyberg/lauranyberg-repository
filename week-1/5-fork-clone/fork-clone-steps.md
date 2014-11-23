@@ -8,7 +8,7 @@ Click the "Fork" button at the top right of this page.
 
 ![Repo to Fork](../imgs/repo-to-fork.jpg)
 
-This will make a copy of the Unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and your challenge code. After you click fork, you should be taken from the pukeko-2015/phase-0-unit-1 repo to [USERNAME]/phase-0-unit-1.
+This will make a copy of the Unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and your challenge code. After you click fork, you should be taken from the kakapo-2015/phase-0-unit-1 repo to [USERNAME]/phase-0-unit-1.
 
 ![Forked Repo](../imgs/forked-repo.jpg)
 

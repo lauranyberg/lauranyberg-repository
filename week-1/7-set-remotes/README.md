@@ -24,20 +24,20 @@ What do your remotes look like? use `git remote -v` to check the URLs of your re
 
 ## Release 1: Add an Upstream
 
-Add the pukeko-2015 repo as your upstream. It should look like this when you are finished (as long as you are using HTTPS -- if you are using SSH, the urls will look a bit different).
+Add the kakapo-2015 repo as your upstream. It should look like this when you are finished (as long as you are using HTTPS -- if you are using SSH, the urls will look a bit different).
 
 ```shell
 origin  https://github.com/[USERNAME]/phase-0-unit-1.git (fetch)
 origin  https://github.com/[USERNAME]/phase-0-unit-1.git (push)
-upstream  https://github.com/pukeko-2015/phase-0-unit-1.git (fetch)
-upstream  https://github.com/pukeko-2015/phase-0-unit-1.git (push)
+upstream  https://github.com/kakapo-2015/phase-0-unit-1.git (fetch)
+upstream  https://github.com/kakapo-2015/phase-0-unit-1.git (push)
 ```
 
 [USERNAME] should be your own user name.
 
 ## Release 2: Fetching Changes
 
-When your new week is released, or when we make important updates to the curriculum mid-week, you'll want to return to this challenge and follow the video instructions on fetching and merging from the pukeko-2015 repo.
+When your new week is released, or when we make important updates to the curriculum mid-week, you'll want to return to this challenge and follow the video instructions on fetching and merging from the kakapo-2015 repo.
 
 If we specify you need to fetch from a specific branch, make sure to note that with your fetch and merge commands. This will only happen after you finish a unit and we prepare your previous unit materials for the new students.
 
