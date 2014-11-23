@@ -2,7 +2,7 @@
 
 # U1.W2: Your Website (Solo Challenge)
 
-**THIS IS YOUR SOLO CHALLENGE FOR WEEK 2.** Please reference the [Phase 0 Handbook](https://github.com/pukeko-2015/phase-0-handbook/) for more details as to what this entails.
+**THIS IS YOUR SOLO CHALLENGE FOR WEEK 2.** Please reference the [Phase 0 Handbook](https://github.com/enspiral-dev-academy/phase-0-handbook/) for more details as to what this entails.
 
 ## Learning Competencies
 - Use wireframes to construct a website

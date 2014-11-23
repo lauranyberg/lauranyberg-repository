@@ -26,5 +26,5 @@ Now it's time to show off your work and share your knowledge with your cohortmat
 ## Release 5: Read
 Use Twitter to find other people's blog posts.
 
-Read at least two other posts, or read one for each topic. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
+Read at least two other posts, or read one for each topic. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
 

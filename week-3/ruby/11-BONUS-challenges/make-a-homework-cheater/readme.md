@@ -48,12 +48,12 @@ puts essay_writer(japanese_history) == my_award_winning_essay
 ```
 This is a simple piece of driver test code. Driver test code is the most basic test you can write. It simply uses a comparison to evaluate whether the output is what you expected.
 
-## Release 2: Write [Pseudocode](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 2: Write [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 Identify the steps you need, the inputs and outputs, etc.
 
-## Release 3: Write your [Initial Solution](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 3: Write your [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-## Release 4: Then try [refactoring](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution.
+## Release 4: Then try [refactoring](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution.
 See the link for more information about refactoring.
 
 ## Release 5: Refactor for difficulty (Optional)
@@ -61,7 +61,7 @@ See the link for more information about refactoring.
 - Modify singular and plural nouns based on basic rules. (ie. you probably don't want to bother with something as crazy as "fish")
 - Refer to a person by the last name after the first use of their name
 
-## Release 5: Use the [reflection guidelines](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to write your reflection.
+## Release 5: Use the [reflection guidelines](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to write your reflection.
 
 ## Release 6: Publish
 Commit and push your solution to GitHub.

@@ -4,7 +4,7 @@
 
 We will release it with changes at least by the Friday before the week begins. -->
 
-It's time to fetch changes from Pukeko's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/pukeko-2015/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from Pukeko's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 C# Labs
 -------
@@ -42,6 +42,6 @@ Once you have the entire local repository on your computer, you don't need to re
 
 Expectation | Times per Unit | Times per Week
 ------------|----------|---------
-[Peer-Pair](https://github.com/pukeko-2015/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 4 | >= 2
+[Peer-Pair](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 4 | >= 2
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7

@@ -58,4 +58,4 @@ Navigate to the following directories within this folder. Each has a README with
 
 
 ## Release 6: Reflect
-Using the [Reflection Guidelines](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md), reflect on what you learned. Write your response in the "Reflection" section of your my_solution.md file.
+Using the [Reflection Guidelines](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md), reflect on what you learned. Write your response in the "Reflection" section of your my_solution.md file.

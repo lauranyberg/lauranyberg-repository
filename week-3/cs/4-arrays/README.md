@@ -51,4 +51,4 @@ Open the [Calculate the Letter Grade from a Series of Grades](http://net-repl.en
 Once you've completed the exercise, copy the code you wrote into the [my_solution_letter_grades.cs](my_solution_letter_grades.cs) file of this folder, add, commit and push!
 
 ### Release 4: Reflect
-In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
+In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.

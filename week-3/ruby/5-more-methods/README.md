@@ -26,4 +26,4 @@ Complete the following challenges. Be sure to take advantage of pairing!
 - [Factorial](../exercises/20-factorial)
 
 ## Release 2: Reflect
-In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
+In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.

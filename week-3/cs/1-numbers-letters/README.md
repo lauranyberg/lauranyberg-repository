@@ -52,4 +52,4 @@ Open the [Basic Arithmetical Operations](http://net-repl.enspiral.info/exercises
 Once you've completed the exercise, copy the code you wrote into the [my_solution_basic_arithmetical_operations.cs](my_solution_basic_arithmetical_operations.cs) file of this folder, add, commit and push!
 
 ### Release 5: Reflect
-Using the [Reflection Guidelines](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md), reflect on what you learned. Write your response in the "Reflection" section of your my_solution.md file.
+Using the [Reflection Guidelines](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md), reflect on what you learned. Write your response in the "Reflection" section of your my_solution.md file.

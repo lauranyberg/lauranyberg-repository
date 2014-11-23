@@ -78,7 +78,7 @@ git config --global core.editor "subl -w"
 ```
 
 ## Release 6: Set up Sublime
-Follow [these instructions](https://github.com/pukeko-2015/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
+Follow [these instructions](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
 
 ## Release 7: Install Rbenv
 Type: ```brew install rbenv```

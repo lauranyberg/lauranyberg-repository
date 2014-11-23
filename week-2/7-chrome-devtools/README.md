@@ -64,7 +64,7 @@ Upload each of your images into the week-2 [imgs](../imgs) directory and display
 
 ## Release 3: Reflect
 
-Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
+Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
 
 ## Release 4: Commit and Push
 Commit and push your changes to GitHub.

@@ -38,7 +38,7 @@ Send your email!
 ## Release 3: Review One more
 After you start seeing other student's self introductions, select another person's repository to view (they should have included a link in their email).
 
-Leave feedback for the second person using the "Issues" feature on GitHub. Use the ["How to Create an Issue"](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/review.md) instructions for help.
+Leave feedback for the second person using the "Issues" feature on GitHub. Use the ["How to Create an Issue"](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) instructions for help.
 
 ## Release 4: Check in with your accountability group
 Accountability groups are designed to give you a core group of people in your cohort to lean on and learn from. You will have a challenge to connect/meet with them each week. As a group you can decide to connect weekly via hangouts, in person, or email. You will also get the chance to work with them on group challenges in later units, so it's important to start building relationships early. You may want to start a code review process within your accountability group as well.

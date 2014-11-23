@@ -13,8 +13,8 @@ The curriculum for weeks 2 and 3 will be released each Monday.
 ### [Week 3: Introduction to Ruby](week-3/README.md) -->
 
 ## Unit Requirements
-- [Peer-Pair program](https://github.com/pukeko-2015/phase-0-handbook/blob/master/peer-pairing-sessions.md) at least 4 times this unit. Read about [pairing](https://github.com/pukeko-2015/phase-0-handbook/blob/master/pairing-in-phase-0.md).
-- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit at least 4 for peer sessions and 2 for [GPS 1.1 and 1.2](https://github.com/pukeko-2015/phase-0-handbook/blob/master/guided-pairing-sessions.md))
+- [Peer-Pair program](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/peer-pairing-sessions.md) at least 4 times this unit. Read about [pairing](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/pairing-in-phase-0.md).
+- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit at least 4 for peer sessions and 2 for [GPS 1.1 and 1.2](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/guided-pairing-sessions.md))
 - [Rate Feedback](https://socrates.devbootcamp.com/feedback) at least 20 pieces of other people's feedback.
 
 #### How to navigate this repository

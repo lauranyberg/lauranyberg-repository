@@ -30,4 +30,4 @@ Link to your blog on the blog-posts/index.html page of your site and push your c
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
 ## Release 5: Read
-Read at least one post another student wrote. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/pukeko-2015/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
+Read at least one post another student wrote. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
