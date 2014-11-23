@@ -68,11 +68,10 @@ When you have questions about the instructions or how to do something, are confu
   
 - Supplementary online tutorials- Students have recommended using either [team treehouse](http://teamtreehouse.com) or [code school](https://www.codeschool.com/hallpass). While both are premium services, they are very worthwhile - especially for visual and kinesthetic learners. Treehouse is **especially for visual and audio learners** and codeschool **especially good for kinesthetic learners**
 
-- Make sure you familiarise yourself with the [student handbook](). This has important information about pairing, feedback and all aspects of being a phase-0 student.  
+- Make sure you familiarise yourself with the [Dev Academy Student handbook](http://www.github.com/enspiral-dev-academy/phase-0-handbook/). This has supplementary important information about pairing, feedback and all aspects of being a phase-0 student.  
 
 </br>   
 </br>   
-
 
 ### How to navigate this repository
 - If you would like to open tabs in a new window, please either right click or hold command while you click.
