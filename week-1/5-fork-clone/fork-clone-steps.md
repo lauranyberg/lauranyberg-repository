@@ -33,7 +33,7 @@ Now you'll want to bring the repository to our computer. There is a series of co
 
 First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local GitHub repository, so **always** make sure you are in the correct directory, like your Desktop or a phase-0 folder.
 
-The first step is to get the URL of your FORKED repo (Don't clone Pukeko's version of the repo!). This is found here:
+The first step is to get the URL of your FORKED repo (Don't clone Kakapo's version of the repo!). This is found here:
 
 ![repository-url](../imgs/repository-url.png)
 
