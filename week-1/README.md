@@ -16,10 +16,10 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
 - [Socrates](http://socrates.devbootcamp.com/)<br> You will receive an individual invite to socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. 
 
-- [Slack](https://enspiral-dev-academy.slack.com/messages/pukeko-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and Pukeko community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
+- [Slack](https://enspiral-dev-academy.slack.com/messages/kakapo-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and kakapo community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
-- [Google+](https://plus.google.com/communities/109221790027165688597)
-By now you should have received an invite to your Pukeko Google+ community. If not, request it [here](https://plus.google.com/communities/109221790027165688597). We’ll use G+ to share non-urgent information and to organise Google Hangouts. 
+- [Google+](https://plus.google.com/u/0/communities/116029817780852668786)
+By now you should have received an invite to your Google+ community. If not, request it [here](https://plus.google.com/u/0/communities/116029817780852668786) We’ll use G+ to share non-urgent information and to organise Google Hangouts. 
 
 Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms (it's not enough to push your files to GitHub) to gauge whether we are giving too much, the right amount, or not enough work each week.
 
