@@ -8,7 +8,8 @@ Before you get started, there are few essentials that you need to do.
 #### 1. Create Accounts
 You will need each of these accounts for Phase 0. The general rule of thumb is to use your first name as part of your username wherever possible and include a photo of yourself.
 
-- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0  **Make sure to activate Google+ on this account**. Please upload a photo of you (not your cat or bike) to help the Dev Academy community of staff, teachers, coaches and alumni recognise you.   
+- [Google Account](https://accounts.google.com/signup
+)<br> We use Google Hangouts and Communities throughout Phase 0  **Make sure to activate Google+ on this account**. Please upload a photo of you (not your cat or bike) to help the Dev Academy community of staff, teachers, coaches and alumni recognise you.   
 
 - [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. 
 
