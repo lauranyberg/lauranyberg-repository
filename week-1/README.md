@@ -19,8 +19,7 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
 - [Slack](https://enspiral-dev-academy.slack.com/messages/kakapo-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and kakapo community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
-- [Google+](https://plus.google.com/u/0/communities/116029817780852668786)
-By now you should have received an invite to your Google+ community. If not, request it [here](https://plus.google.com/u/0/communities/116029817780852668786) We’ll use G+ to share non-urgent information and to organise Google Hangouts. 
+
 
 
 
