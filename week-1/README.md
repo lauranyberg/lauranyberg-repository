@@ -1,6 +1,6 @@
 # Week 1: Git, GitHub, and the Command Line
 
-**Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and Enspiral Dev Academy Community. Before you get started, you need to have completed the necessary prep material. Check the prerequisites in the [student handbook]()
+**Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and Enspiral Dev Academy Community. Before you get started, you need to have completed the necessary prep material. Check the prerequisites in the [student handbook](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/phase-0-prerequisites.md)
 
 Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms (it's not enough to push your files to GitHub) to gauge whether we are giving too much, the right amount, or not enough work each week.
 
