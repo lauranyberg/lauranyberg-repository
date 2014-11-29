@@ -87,3 +87,5 @@ When you have questions about the instructions or how to do something, are confu
 
 ### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click.
+
+adding text here! It is super awesome.

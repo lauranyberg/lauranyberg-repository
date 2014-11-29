@@ -7,4 +7,8 @@
 - Write a handy cheatsheet of the commands you need to commit your changes?
 - What is a pull request? Why do you think they are preferred when working with teams?
 
-<!-- Add your reflection here. Remove the comment markers -->
+- How does tracking and adding changes make developer's lives easier?
+It makes it easier because they get to continuosly iterate on a project until they are happy with the desired result.
+
+- How does tracking and adding changes make developer's lives easier?
+It makes a developers life easier because it means that they can continuosly go back and change and add to their work until the time that they are satisfied with the final outcome on their project.
