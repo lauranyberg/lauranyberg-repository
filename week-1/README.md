@@ -16,9 +16,10 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
 - [Socrates](http://socrates.devbootcamp.com/)<br> You will receive an individual invite to socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. 
 
-- [Slack](https://enspiral-dev-academy.slack.com/messages/kakapo-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and kakapo community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
+- [Slack](https://enspiral-dev-academy.slack.com/messages/pukeko-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and Pukeko community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
-
+- [Google+](https://plus.google.com/communities/109221790027165688597)
+By now you should have received an invite to your Pukeko Google+ community. If not, request it [here](https://plus.google.com/communities/109221790027165688597). We’ll use G+ to share non-urgent information and to organise Google Hangouts. 
 
 Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms (it's not enough to push your files to GitHub) to gauge whether we are giving too much, the right amount, or not enough work each week.
 
@@ -67,7 +68,7 @@ When you have questions about the instructions or how to do something, are confu
   
 - Supplementary online tutorials- Students have recommended using either [team treehouse](http://teamtreehouse.com) or [code school](https://www.codeschool.com/hallpass). While both are premium services, they are very worthwhile - especially for visual and kinesthetic learners. Treehouse is **especially for visual and audio learners** and codeschool **especially good for kinesthetic learners**
 
-- Make sure you familiarise yourself with the [Dev Academy Student handbook](http://www.github.com/enspiral-dev-academy/phase-0-handbook/). This has supplementary important information about pairing, feedback and all aspects of being a phase-0 student.  
+- Make sure you familiarise yourself with the [Dev Academy Student handbook](). This has supplementary important information about pairing, feedback and all aspects of being a phase-0 student.  
 
 </br>   
 </br>   
