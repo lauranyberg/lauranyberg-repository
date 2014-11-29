@@ -8,7 +8,7 @@ Begin by clicking on the link below. Don't worry too much right now about any ot
 ### [Week 1: Git, GitHub, and the Command Line](week-1/README.md)
 <!-- ### [Week 2: HTML and CSS](week-2/README.md) -->
 
-The curriculum for weeks 2 and 3 will be released each Monday.
+Each Monday we will release the cirriculum for the week.  
 <!-- 
 ### [Week 3: Introduction to Ruby](week-3/README.md) -->
 
