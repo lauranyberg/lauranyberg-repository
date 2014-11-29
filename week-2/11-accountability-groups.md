@@ -1,13 +1,13 @@
 [Week 2 Home](./)
 
-# U1.W2: Connect with Your Accountability Group
+# U1.W2: Connect with Your Stream.
 
 ## Learning Competencies
 - Identify the concepts you struggled with
-- Explain your confusion to your accountability group
+- Explain your confusion to your stream
 
 ## Summary
-It's time to check in with your accountability groups!
+It's time to check in with your Stream (i.e. Rubiests or sharpies)! Your stream is your accountability group! 
 
 ## Releases:
 ## Release 0: Identify Concepts
