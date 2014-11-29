@@ -73,5 +73,6 @@ When you have questions about the instructions or how to do something, are confu
 </br>   
 
 ### How to navigate this repository
+
 - If you would like to open tabs in a new window, please either right click or hold command while you click.
 - Remember to use the links in the README's instead of navigating the file directories. 
