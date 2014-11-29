@@ -6,12 +6,17 @@ We will release it with changes at least by the Friday before the week begins. -
 
 It's time to fetch changes from Kakapo's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
-You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the challenges we assign.
+On the student drive you have access to a number of different books. We recommend you purchase your own copy, but in the meantime read ours online. 
 
-We are also requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code. You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
+This week you'll be reading Chris Pine's [*Learn to Program, 2nd edition*](https://drive.google.com/open?id=0B5aB0OHeInzgOWE3dF9tMzByVVk&authuser=0) and then completing the challenges we assign. 
+
+Other ruby books you'll be required to read include [The Well-Grounded Rubyist](https://drive.google.com/a/enspiral.com/file/d/0B5aB0OHeInzgXzFFd1ZhT2lUTjA/view?usp=sharing) by David A. 
+and [Practical Object-Oriented Design in Ruby](https://drive.google.com/open?id=0B5aB0OHeInzgcHFvZUVtNlZzQ3c&authuser=0) by Sandi Metz, (often referred to as POODR). This will be used in week 6 and through your bootcamp. 
+
 
 ## Challenges:
-You'll see an "exercises" directory. The exercises will be referenced by the challenges below. Please go through the challenges in order.
+All the exercises for week-3 are embedded in the challenges. Remember you should always refer to the README.md for challenge guidance and not browse individual folders. If you find yourself getting lost in the file structure when using sublime, navigate using the links in the README on **github**
+
 
 Before starting, please read Chris Pine's Introduction p. xi - xv.
 
@@ -27,7 +32,19 @@ Before starting, please read Chris Pine's Introduction p. xi - xv.
 10. [Accountability Groups](10-accountability-groups.md)
 11. [BONUS Challenges](11-BONUS-challenges) *Optional*
 
-Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
+If you want to request feedback from your peers, #feedback in your cohort's slack channel with a link to your blog. Only other EDA students can see your repositories because they are private.
+
+Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.  
+
+## Submitting your work
+
+- You must complete the [week's submission form](http://goo.gl/forms/y1ZOlZfiSI) to turn in your work.
+- The week's work is due each Sunday by 11:59pm.  
+
+**if you do not finish by the deadline:**
+
+- Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/y1ZOlZfiSI)
 
 ## Working through the challenges
 Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
