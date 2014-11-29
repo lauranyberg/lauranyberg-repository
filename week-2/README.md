@@ -36,7 +36,7 @@ Please note, we put the blog challenges at the end of the week, but you can deci
 **if you do not finish by the deadline:**
 
 - Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
-- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u)
 
 
 ## Working through the challenges
