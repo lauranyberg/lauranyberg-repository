@@ -1,6 +1,6 @@
 # Week 2: HTML and CSS
 
-It's time to fetch changes from Kakapo's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes the phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will probably require more of your time than week 1.
 
@@ -23,7 +23,7 @@ Please keep track of the time you are spending on the mandatory sections of the 
 12. [GPS 1.1](12-gps1-1) **Do not look at this until your pairing session**
 13. [BONUS challenges](13-BONUS-challenges)
 
-If you want to request feedback from your peers, ask for it in your cohort's slack channel and includ a link to your blog. 
+If you want to request feedback from your peers, #feedback in your cohort's slack channel with a link to your blog. Only other EDA students can see your repositories because they are private.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.  
 
@@ -36,7 +36,11 @@ Please note, we put the blog challenges at the end of the week, but you can deci
 **if you do not finish by the deadline:**
 
 - Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
+<<<<<<< HEAD
 - When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u)
+=======
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u
+>>>>>>> Add submitting work. Remove cohort / DBC and accountabilty mentions
 
 
 ## Working through the challenges
