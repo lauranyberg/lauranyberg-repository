@@ -33,7 +33,19 @@ Once you're familiar with the core concepts, you can start going through the cha
 7. [GPS 1.2](9-gps1-2) **Do not look at this until your guided pairing session!**
 8. [Accountability Groups](10-accountability-groups.md)
 
-Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
+If you want to request feedback from your peers, #feedback in your cohort's slack channel with a link to your blog. Only other EDA students can see your repositories because they are private.
+
+Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.  
+
+## Submitting your work
+
+- You must complete the [week's submission form](http://goo.gl/forms/y1ZOlZfiSI) to turn in your work.
+- The week's work is due each Sunday by 11:59pm.  
+
+**if you do not finish by the deadline:**
+
+- Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/y1ZOlZfiSI)
 
 ## Working through the challenges
 Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
