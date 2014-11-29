@@ -8,8 +8,7 @@ Before you get started, there are few essentials that you need to do.
 #### 1. Create Accounts
 You will need each of these accounts for Phase 0. The general rule of thumb is to use your first name as part of your username wherever possible and include a photo of yourself.
 
-- [Google Account](https://accounts.google.com/signup
-)<br> We use Google Hangouts and Communities throughout Phase 0  **Make sure to activate Google+ on this account**. Please upload a photo of you (not your cat or bike) to help the Dev Academy community of staff, teachers, coaches and alumni recognise you.   
+- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0  **Make sure to activate Google+ on this account**. Please upload a photo of you (not your cat or bike) to help the Dev Academy community of staff, teachers, coaches and alumni recognise you.   
 
 - [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. 
 
@@ -17,9 +16,10 @@ You will need each of these accounts for Phase 0. The general rule of thumb is t
 
 - [Socrates](http://socrates.devbootcamp.com/)<br> You will receive an individual invite to socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. 
 
-- [Slack](https://enspiral-dev-academy.slack.com/messages/kakapo-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and kakapo community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
+- [Slack](https://enspiral-dev-academy.slack.com/messages/pukeko-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and Pukeko community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
 
-
+- [Google+](https://plus.google.com/communities/109221790027165688597)
+By now you should have received an invite to your Pukeko Google+ community. If not, request it [here](https://plus.google.com/communities/109221790027165688597). We’ll use G+ to share non-urgent information and to organise Google Hangouts. 
 
 
 
@@ -79,7 +79,7 @@ When you have questions about the instructions or how to do something, are confu
   
 - There are range of online tutorials available - Students have recommended using either [team treehouse](http://teamtreehouse.com) or [code school](https://www.codeschool.com/hallpass) to support the learning material   While both are premium services, they are very worthwhile. Treehouse is **especially for visual and audio learners** and codeschool **especially good for kinesthetic learners**
 
-- Make sure you familiarise yourself with the [Dev Academy Student handbook](http://www.github.com/enspiral-dev-academy/phase-0-handbook/). This has supplementary important information about pairing, feedback and all aspects of being a phase-0 student.  
+- Make sure you familiarise yourself with the [Dev Academy Student handbook](). This has supplementary important information about pairing, feedback and all aspects of being a phase-0 student.  
 
 </br>   
 </br>   
@@ -87,5 +87,3 @@ When you have questions about the instructions or how to do something, are confu
 
 ### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click.
-
-adding text here! It is super awesome.
