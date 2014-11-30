@@ -9,6 +9,10 @@
 ## Summary
 It's time to check in with your Stream (i.e. Rubiests or sharpies)! Your stream is your accountability group! 
 
+Accountability groups are designed to give you a core group of people in your cohort to lean on and learn from. You will have a challenge to connect/meet with them each week. As a group you can decide to connect weekly via hangouts, slack, in person, or email.You will also get the chance to work with them on group challenges in later units, so it's important to start building relationships early. You may want to start a code review process within your accountability group as well.  
+
+Your phase-0 facilitator will set up a private channel for accountability groups. You can use this, or one of the other means mentioned above. 
+
 ## Releases:
 ## Release 0: Identify Concepts
 Identify one or two of the concepts/challenges you struggled with this week.
