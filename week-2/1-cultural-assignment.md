@@ -20,5 +20,3 @@ Starting **Thursday**, take a look at your cohort-mates responses and choose one
 
 ## Release 3: Read your cohort-mates' responses!
 
-## Release 4: Submit
-You'll be asked to submit your responses on the weekly submission form.
