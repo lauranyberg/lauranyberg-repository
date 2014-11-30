@@ -20,11 +20,11 @@ Please keep track of the time you are spending on the mandatory sections of the 
 8. [Your Own Website - SOLO CHALLENGE!](8-your-website-solo-challenge)
 9. [Testing and Maintenance](9-testing-and-maintenance)
 10. [Technical Blog](10-technical-blog.md)
-11. [Cohort Stream](11-accountability-groups.md)
+11. [Accountability groups](11-accountability-groups.md)
 12. [GPS 1.1](12-gps1-1) **Do not look at this until your pairing session**
 13. [BONUS challenges](13-BONUS-challenges)
 
-If you want to request feedback from your peers, #feedback in your cohort's slack channel with a link to your blog. Only other EDA students can see your repositories because they are private.
+If you want to request feedback from your peers, ask for it in your cohort's slack channel and includ hashtag #EDAU1W1 and a link to your blog. Only other EDA students can see your repositories because they are private.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.  
 
