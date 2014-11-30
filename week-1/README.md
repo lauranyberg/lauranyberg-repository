@@ -1,6 +1,25 @@
 # Week 1: Git, GitHub, and the Command Line
 
-**Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and Enspiral Dev Academy Community. Before you get started, you need to have completed the necessary prep material. Check the prerequisites in the [student handbook](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/phase-0-prerequisites.md)
+**Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and Enspiral Dev Academy community. 
+
+Before you get started, there are few essentials that you need to do. 
+
+</br>
+#### 1. Create Accounts
+You will need each of these accounts for Phase 0. The general rule of thumb is to use your first name as part of your username wherever possible and include a photo of yourself.
+
+- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0  **Make sure to activate Google+ on this account**. Please upload a photo of you (not your cat or bike) to help the Dev Academy community of staff, teachers, coaches and alumni recognise you.   
+
+- [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. 
+
+- [Github](https://github.com/)<br> You will start using github today, so please create an account. **Please use your first name as part of your github user name.** This will be where you keep all of your code from EDA and becomes your technical resume when you apply for jobs.
+
+- [Socrates](http://socrates.devbootcamp.com/)<br> You will receive an individual invite to socrates - The DevBoot Camp app that Dev Academy uses for activities like giving feedback. 
+
+- [Slack](https://enspiral-dev-academy.slack.com/messages/kakapo-/)<br> You’ll receive an invite shortly to join our Slack channel. We’ll use Slack to help with quick fire questions and answers. You can also post files, notifications, and get help from the EDA and kakapo community. We recommend using either the desktop app or have the web app signed on when you are working through the Phase 0 material.  
+
+- [Google+](https://plus.google.com/u/0/communities/116029817780852668786)
+By now you should have received an invite to your Google+ community. If not, request it [here](https://plus.google.com/u/0/communities/116029817780852668786) We’ll use G+ to share non-urgent information and to organise Google Hangouts. 
 
 Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms (it's not enough to push your files to GitHub) to gauge whether we are giving too much, the right amount, or not enough work each week.
 
