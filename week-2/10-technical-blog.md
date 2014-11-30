@@ -34,6 +34,6 @@ Now it's time to show off your work and share your knowledge with your cohortmat
 
 ## Release 5: Read
 
-Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, Specific, and Kind) feedback in a tweet!
+Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, Specific, and Kind) feedback with Slack
 
 

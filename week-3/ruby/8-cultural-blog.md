@@ -27,7 +27,7 @@ Address the questions above in your blog post.
 Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit and push your changes to GitHub!
 
 ## Release 4: Promote
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
+Now it's time to show off your work and share your knowledge with your cohortmates on the Slack channels!
 
 ## Release 5: Read
-Read at least one post another student wrote. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
+Read at least one post another student wrote. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) on their repo or on the Slack channels

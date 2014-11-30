@@ -51,4 +51,4 @@ Now that you've introduced yourself to your cohort, it's time to get to know you
 - Your preferred way of connecting with the group each week (hangout, email, in person, if possible).
 
 ## Release 5: Celebrate
-You made it through Week 1! How do you feel? Feel free to share your thoughts on the cohort slack channel using hashtag #EDAU1W1 so your cohort mates can easily find your comment. If you want to tell us how you're feeling, email phase0@devacademy.co.nz
+You made it through Week 1! How do you feel? Feel free to share your thoughts on the cohort's Slack channel! If you want to tell us how you're feeling, email phase0@devacademy.co.nz

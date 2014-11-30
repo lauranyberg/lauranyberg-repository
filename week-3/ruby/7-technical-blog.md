@@ -21,10 +21,10 @@ Write a blog post that describes and compares arrays and hashes. Be sure to incl
 Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit and push your changes to GitHub!
 
 ## Release 4: Promote
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
+Now it's time to show off your work and share your knowledge with your cohortmates on the Slack channels!
 
 ## Release 5: Read
-Use Twitter to find other people's blog posts.
+Keep an eye out on the Slack channels to find other people's blog posts.
 
-Read at least two other posts, or read one for each topic. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
+Read at least two other posts, or read one for each topic. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) on their repo or on the Slack channels
 
